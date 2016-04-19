@@ -42,3 +42,11 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 * Use ``'\n'`` instead of ``"\n"``. In later it looks for a null character at the end (as in string) whereas in the former compiler looks at it as a character.
 
 --------
+
+***DAY 3*** (Apr 18, 2016)
+-
+
+* [Is Bitcoin Becoming More Stable Than Gold?](http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/)
+* For speed reading reduce the eye movement to minimum. Read group of words together rather than reading each word.
+
+--------
