@@ -43,10 +43,18 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 
 --------
 
-***DAY 3*** (Apr 18, 2016)
+***DAY 4*** (Apr 19, 2016)
 -
 
 * [Is Bitcoin Becoming More Stable Than Gold?](http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/)
 * For speed reading reduce the eye movement to minimum. Read group of words together rather than reading each word.
+
+--------
+
+***DAY 5*** (Apr 20, 2016)
+-
+
+* [Common mistakes to avoid when writing macros in C](http://www.commonsense4commonpeople.net/2008/11/tips-on-writing-c-macros.html). Also [Proper usage of brackets in macros in C](http://stackoverflow.com/questions/10820340/the-need-for-parentheses-in-macros-in-c)
+* One should watch [this thing](https://www.youtube.com/watch?v=ji5_MqicxSo) almost on a daily basis and take lessons in "living life" from it.
 
 --------
