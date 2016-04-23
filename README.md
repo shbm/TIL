@@ -78,10 +78,10 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 ***DAY 8*** (Apr 23, 2016)
 -
 
+> **Ordinary people seek entertainment. Extraordinary people seek education and learning.**
 
 * Use slices instead of array in Go (Golang).
 * Sunk Cost fallacy or Concorde Fallacy.
 * goroutines for a lack of better words, are awesome.
-> **Ordinary people seek entertainment. Extraordinary people seek education and learning.**
 
 --------
