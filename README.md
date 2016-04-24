@@ -85,3 +85,13 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 * goroutines for a lack of better words, are awesome.
 
 --------
+
+***DAY 9*** (Apr 24, 2016)
+-
+
+* Life and friends (life of friends) will never fail to surprise, nay shock you.
+* Picked up Thinking Fast and Slow.
+* Learnt about [CSFIELDGUIDE](http://www.csfieldguide.org.nz/en/chapters/index.html)
+* [Adolphe Quetelet](http://www.theatlantic.com/business/archive/2016/02/the-invention-of-the-normal-person/463365/ ) introduced BMI (Body Mass Index) based on the concepts of aggregate. 
+
+--------
