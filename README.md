@@ -5,9 +5,9 @@
 -
 *It takes 21 days to form a new habit*
 
-> Be reliable. Unreliability can cancel out the other virtues.
+> ***Be reliable. Unreliability can cancel out the other virtues.***
 > 
-> Learn the all-important concept of assiduity: Sit down and do it until it’s done.
+> ***Learn the all-important concept of assiduity: Sit down and do it until it’s done.***
 >  
 >  [The Munger Operating System](https://www.farnamstreetblog.com/2016/04/munger-operating-system/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 
@@ -66,22 +66,21 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 ***DAY 7*** (Apr 22, 2016)
 -
 
-> **If you only do what you can do, you'll be never more than you are.**
+> ***If you only do what you can do, you'll be never more than you are.***
 >  
 >  -Master Shifu (Kung Fu Panda 3)
 
-* Freakonmoics series continue to be informative and entertaining. "Think Like A Freak" was not at all disappointing.
+* Freakonomics series continue to be informative and entertaining. "Think Like A Freak" was not at all disappointing.
 * Brush your teeth from the weaker hand.
 
 --------
-
 ***DAY 8*** (Apr 23, 2016)
 -
 
-> **Ordinary people seek entertainment. Extraordinary people seek education and learning.**
+> ***Ordinary people seek entertainment. Extraordinary people seek education and learning.***
 
 * Use slices instead of array in Go (Golang).
-* Sunk Cost fallacy or Concorde Fallacy.
+* Keep "Sunk Cost fallacy" (or Concorde Fallacy) in mind while thinking about dragging thinngs for too long.
 * goroutines for a lack of better words, are awesome.
 
 --------
@@ -93,5 +92,28 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 * Picked up Thinking Fast and Slow.
 * Learnt about [CSFIELDGUIDE](http://www.csfieldguide.org.nz/en/chapters/index.html)
 * [Adolphe Quetelet](http://www.theatlantic.com/business/archive/2016/02/the-invention-of-the-normal-person/463365/ ) introduced BMI (Body Mass Index) based on the concepts of aggregate. 
+
+--------
+***DAY 10*** (Apr 25, 2016)
+-
+
+* Another day in down the drain! :(
+
+--------
+***DAY 11*** (Apr 26, 2016)
+-
+
+* Thinking Fast and Slow is my new favorite book.
+* Try not to multitask things that require resource from System 2.
+* "Ego depletion" is bad for your cognitive abilitites.
+* Lost my phone today! I was relieved but after a few hours there was a feeling of incompleteness and a void. Tells a lot about dependence.
+* Learned about "Delayed Gratification".
+
+--------
+***DAY 12*** (Apr 27, 2016)
+-
+> ***Language was invented for one reason, boys – to woo women – and, in that endeavour, laziness will not do.***
+>
+> -Dead Poets Society
 
 --------
