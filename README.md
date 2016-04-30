@@ -155,5 +155,20 @@ v, ok = m["twelve"]
 // ok is true
 // v is 12
 ```
+* Use composite literal or `make` while declaring a `map` in go
+```go
+// Composite literal
+myGreeting := map[string]string{
+	"function": "maps_composite_literal()",
+	"tim":      "Good Morning",
+	"john":     "Hello There",
+}
 
+// via make function
+m := make(map[string]string)
+m["H"] = "Hydrogen"
+m["He"] = "Helium"
+m["Li"] = "Lithium"
+```
+* 
 --------
