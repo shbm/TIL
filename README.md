@@ -97,7 +97,7 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 ***DAY 10*** (Apr 25, 2016)
 -
 
-* Another day in down the drain! :(
+* :\
 
 --------
 ***DAY 11*** (Apr 26, 2016)
@@ -115,5 +115,45 @@ curl "http://172.31.31.1/24online/servlet/E24onlineHTTPClient" --data "mode=191&
 > ***Language was invented for one reason, boys – to woo women – and, in that endeavour, laziness will not do.***
 >
 > -Dead Poets Society
+
+--------
+***DAY 13*** (Apr 28, 2016)
+-
+
+* :\
+
+--------
+***DAY 14*** (Apr 29, 2016)
+-
+
+* Sleeping is good for health. Looked after my health.
+* Use 4-7-8 rule for sleeping:
+  1. Exhale completely through your mouth, making a `whoosh` sound.
+  2. Close your mouth and inhale quietly through your nose to a mental count of `four`.
+  3. Hold your breath for a count of `seven`.
+  4. Exhale completely through your mouth, making a whoosh sound to a count of `eight`.
+  5. REPEAT!
+
+--------
+***DAY 15*** (Apr 30, 2016)
+-
+
+* Maps of go == dictionary of python
+* comma ok idiom to check if a value is present for a key.
+```go
+m := make(map[string]int)
+
+m["fourteen"] = 14
+m["twelve"] = 12
+
+delete(m, "fourteen")
+v, ok = m["fourteen"]
+// ok is false
+// v is 0
+
+v, ok = m["twelve"]
+// ok is true
+// v is 12
+```
 
 --------
